@@ -1,5 +1,15 @@
 # Commit-impact-metrics
 
+Источник: https://github.com/iterative/example-get-started.git
+
+## Начало работы
+
+```
+python -m venv .venv
+source .venv/bin/activate
+pip install -r src/requirements.txt
+```
+
 пример использования
 ```
 python -m cim 2-track-data
