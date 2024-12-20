@@ -1,0 +1,7 @@
+{
+    "criticality": 5,
+    "complexity": 5,
+    "error_sensitivity": 5,
+    "integration_complexity": 5,
+    "urgency": 5
+}
